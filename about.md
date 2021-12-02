@@ -4,11 +4,11 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+Data Science and Data Analyst
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+I am a business/data analyst with 4 years experience in data analytics, modelling and visualisation. I am passionate about driving informed business decisions through data insights and processes.
 
 ### Contact me
 
